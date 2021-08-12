@@ -1,5 +1,8 @@
 {
-  "name": "nodejs-helloworld",
+  "description": "Hello World!",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "author": "Red{nbsp}Hat Training",
 ...output omitted...
   "dependencies": {
     "express": "4.14.x"
